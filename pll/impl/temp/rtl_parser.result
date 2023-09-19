@@ -1,0 +1,84 @@
+[
+ {
+  "InstFile" : "/home/merllab/Desktop/HDMI_take2/pll/src/top.v",
+  "InstLine" : 1,
+  "InstName" : "top",
+  "ModuleFile" : "/home/merllab/Desktop/HDMI_take2/pll/src/top.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "top",
+  "SubInsts" : [
+   {
+    "InstFile" : "/home/merllab/Desktop/HDMI_take2/pll/src/top.v",
+    "InstLine" : 30,
+    "InstName" : "encode_R",
+    "ModuleFile" : "/home/merllab/Desktop/HDMI_take2/pll/src/svo_tmds.v",
+    "ModuleLine" : 23,
+    "ModuleName" : "svo_tmds"
+   },
+   {
+    "InstFile" : "/home/merllab/Desktop/HDMI_take2/pll/src/top.v",
+    "InstLine" : 31,
+    "InstName" : "encode_G",
+    "ModuleFile" : "/home/merllab/Desktop/HDMI_take2/pll/src/svo_tmds.v",
+    "ModuleLine" : 23,
+    "ModuleName" : "svo_tmds"
+   },
+   {
+    "InstFile" : "/home/merllab/Desktop/HDMI_take2/pll/src/top.v",
+    "InstLine" : 32,
+    "InstName" : "encode_B",
+    "ModuleFile" : "/home/merllab/Desktop/HDMI_take2/pll/src/svo_tmds.v",
+    "ModuleLine" : 23,
+    "ModuleName" : "svo_tmds"
+   },
+   {
+    "InstFile" : "/home/merllab/Desktop/HDMI_take2/pll/src/top.v",
+    "InstLine" : 38,
+    "InstName" : "pll",
+    "ModuleFile" : "/home/merllab/Desktop/HDMI_take2/pll/src/gowin_rpll/gowin_rpll.v",
+    "ModuleLine" : 10,
+    "ModuleName" : "Gowin_rPLL"
+   },
+   {
+    "InstFile" : "/home/merllab/Desktop/HDMI_take2/pll/src/top.v",
+    "InstLine" : 57,
+    "InstName" : "OBUFDS_red",
+    "ModuleFile" : "/home/merllab/Desktop/HDMI_take2/pll/src/top.v",
+    "ModuleLine" : 92,
+    "ModuleName" : "OBUFDS"
+   },
+   {
+    "InstFile" : "/home/merllab/Desktop/HDMI_take2/pll/src/top.v",
+    "InstLine" : 58,
+    "InstName" : "OBUFDS_green",
+    "ModuleFile" : "/home/merllab/Desktop/HDMI_take2/pll/src/top.v",
+    "ModuleLine" : 92,
+    "ModuleName" : "OBUFDS"
+   },
+   {
+    "InstFile" : "/home/merllab/Desktop/HDMI_take2/pll/src/top.v",
+    "InstLine" : 59,
+    "InstName" : "OBUFDS_blue",
+    "ModuleFile" : "/home/merllab/Desktop/HDMI_take2/pll/src/top.v",
+    "ModuleLine" : 92,
+    "ModuleName" : "OBUFDS"
+   },
+   {
+    "InstFile" : "/home/merllab/Desktop/HDMI_take2/pll/src/top.v",
+    "InstLine" : 60,
+    "InstName" : "OBUFDS_clock",
+    "ModuleFile" : "/home/merllab/Desktop/HDMI_take2/pll/src/top.v",
+    "ModuleLine" : 92,
+    "ModuleName" : "OBUFDS"
+   }
+  ]
+ },
+ {
+  "InstFile" : "/home/merllab/Desktop/HDMI_take2/pll/src/top.v",
+  "InstLine" : 65,
+  "InstName" : "TMDS_encoder",
+  "ModuleFile" : "/home/merllab/Desktop/HDMI_take2/pll/src/top.v",
+  "ModuleLine" : 65,
+  "ModuleName" : "TMDS_encoder"
+ }
+]

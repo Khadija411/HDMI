@@ -1,0 +1,29 @@
+IO_LOC  "pixclk" 52;
+IO_PORT "pixclk" IO_TYPE=LVCMOS33 PULL_MODE=UP;
+
+IO_LOC  "TMDSn[0]" 70;
+IO_PORT "TMDSn[0]" DRIVE=8;
+
+IO_LOC  "TMDSp[0]" 71;
+IO_PORT "TMDSp[0]" DRIVE=8;
+
+IO_LOC  "TMDSn[1]" 72;
+IO_PORT "TMDSn[1]" DRIVE=8;
+
+IO_LOC  "TMDSn_clock" 68;
+IO_PORT "TMDSn_clock" DRIVE=8;
+
+IO_LOC  "TMDSp[1]" 73;
+IO_PORT "TMDSp[1]" DRIVE=8;
+
+IO_LOC  "TMDSn[2]" 74;
+IO_PORT "TMDSn[2]" DRIVE=8;
+
+IO_LOC  "TMDSp[2]" 75;
+IO_PORT "TMDSp[2]" DRIVE=8;
+
+IO_LOC  "TMDSp_clock" 69;
+IO_PORT "TMDSp_clock" DRIVE=8;
+
+IO_LOC  "reset" 3;
+IO_PORT "reset" IO_TYPE=LVCMOS18;

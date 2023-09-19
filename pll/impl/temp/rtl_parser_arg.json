@@ -1,0 +1,24 @@
+{
+ "Files" : [
+  {
+   "Path" : "/home/merllab/Desktop/HDMI_take2/pll/src/gowin_rpll/gowin_rpll.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "/home/merllab/Desktop/HDMI_take2/pll/src/svo_tmds.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "/home/merllab/Desktop/HDMI_take2/pll/src/top.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "/home/merllab/Desktop/HDMI_take2/pll/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}
